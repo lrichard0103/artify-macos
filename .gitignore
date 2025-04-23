@@ -69,3 +69,4 @@ fastlane/test_output
 
 # Artify
 release/
+.DS_Store
